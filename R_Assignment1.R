@@ -1,3 +1,4 @@
+# Dev Verma , MCA 2A , 25/SCA/MCAN/029
 # Question 1 : Write R program to create three vectors numeric data, character data and logical data. Display the content of the vectors and their type.
 # numeric vector
 numeric_vector <- c(10, 20, 30, 40, 50)
