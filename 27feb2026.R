@@ -34,3 +34,7 @@ for(i in 0:10){
     if(i==6) next
     print(letters[i])
 }
+#to print the square of first 10 numbers
+for(i in 1:10){
+    print(i*i)
+}
